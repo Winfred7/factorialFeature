@@ -1,0 +1,17 @@
+{
+  "name": "factorialfeature",
+  "version": "1.0.0",
+  "description": "Test DD with Js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/**/*_test.js"
+  },
+  "author": "WinfredT",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
